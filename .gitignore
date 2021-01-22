@@ -1,0 +1,12 @@
+bin/
+Characters/
+Data/map
+Data/clan
+Data/punishments
+Data/tradingpost
+Data/logs
+Data/stucklog.txt
+Data/Server/starters.var
+nohup.out
+Data/cfg/server_properties.cfg
+*.sw*

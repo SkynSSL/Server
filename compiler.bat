@@ -1,0 +1,7 @@
+mkdir bin 2> nul
+mkdir Characters 2> nul
+mkdir Data\clan 2> nul
+dir /b /s src\*.java >> files.txt
+"C:\Program Files\Java\jdk1.8.0_271\bin\javac.exe" -cp "bin;deps\mchange-commons-java-0.2.8.jar;deps\c3p0-0.9.5-pre10.jar;deps\c3p0-0.9.5.1.jar;deps\commons-io-2.4.jar;deps\commons-lang3-3.3.2.jar;deps;deps\everythingrs-api.jar;deps\fluent-hc-4.2.6.jar;deps\gson-2.2.4.jar;deps\GTLVote.jar;deps\guava-18.0-javadoc.jar;deps\guava-18.0.jar;deps\jna.jar;deps\json-lib-2.4-jdk15.jar;deps\json-simple-1.1.1.jar;deps\jsoup-1.9.2-sources.jar;deps\jsoup-1.9.2.jar;deps\jython.jar;deps\log4j-1.2.15.jar;deps\Motivote-server.jar;deps\mvgate3.jar;deps\mysql.jar;deps\netty.jar;deps\oshi-core.jar;deps\platform.jar;deps\poi.jar;deps\slf4j-nop.jar;deps\slf4j.jar;deps\xstream.jar;lib\cleverbotapi-1.0.2.jar;lib\commons-cli-1.2.jar;lib\commons-codec-1.6.jar;lib\commons-lang3-3.4-javadoc.jar;lib\commons-lang3-3.4.jar;lib\commons-logging-1.1.3.jar;lib\fluent-hc-4.3.5.jar;lib\gson-2.2.4.jar;lib\guava-18.0.jar;lib\httpclient-4.3.5.jar;lib\httpclient-cache-4.3.5.jar;lib\httpcore-4.3.2.jar;lib\httpmime-4.3.5.jar;lib\java-canary-alt.jar;lib;lib\java-canary-webhooks-containing.jar;lib\jbcrypt-4.0.jar;lib\jna-4.1.0.jar;lib\jna-platform-4.1.0.jar;lib\json-simple-1.1.1.jar;lib\mvgate3.jar;lib\mysql.jar;lib\netty-3.5.8.Final.jar;lib\xpp3_min-1.1.4c.jar;lib\xpp3-1.1.4c.jar;out\production\Server;out\production\Server\everythingrs-api.jar;tojad.jar" -d bin @files.txt
+del /f files.txt
+pause
