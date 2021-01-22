@@ -1,0 +1,567 @@
+[ACCOUNT]
+character-username = 1
+character-password = d9788c79a68f5118abb38d444a29c1cc
+
+[CHARACTER]
+character-rights = 1
+character-rights-secondary = 0	1	20
+character-mac-address = 0A-00-27-00-00-06
+character-ip-address = 94.63.167.146
+revert-option = 
+mode = REGULAR
+tutorial-stage = END
+character-height = 0
+character-hp = 99
+play-time = 126370
+last-clan = Help
+character-specRestore = 0
+character-posx = 3093
+character-posy = 3492
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-unlock-delay = 0
+placeholders = false
+newStarter = false
+bank-pin-cancellation-delay = -1
+dailyTaskDate = 0
+totalDailyDone = 0
+currentTask = SLAYER_TASK
+completedDailyTask = false
+playerChoice = PVM
+dailyEnabled = true
+hourly-box-toggle = true
+fractured-crystal-toggle = true
+accept-aid = false
+did-you-know = true
+lootvalue = 10000000
+raidPoints = 0
+maRound = 0
+raidCount = 0
+experience-counter = 148230583
+character-title-updated = 
+removed-slayer-tasks = 			
+last-incentive = 0
+rfd-round = 0
+run-energy = 100
+character-historyItems = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyItemsN = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyPrice = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+lastLoginDate = 0
+has-npc = false
+summonId = 0
+startPack = true
+crystalDrop = false
+membership = true
+membershipStartDate = 364
+setPin = false
+slayer-helmet = false
+slayer-imbued-helmet = false
+bigger-boss-tasks = false
+cerberus-route = false
+superior-slayer = false
+slayer-tasks-completed = 0
+claimedReward = false
+dragonfire-shield-charge = 12
+rfd-gloves = 0
+wave-id = 0
+wave-type = 0
+wave-info = 0	0	0
+master-clue-reqs = 0	0	0	0
+counters = 2	15	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+max-cape = false	false	false	false	false
+zulrah-best-time = 0
+toxic-staff = 0
+toxic-pipe-ammo = 0
+toxic-pipe-amount = 0
+toxic-pipe-charge = 0
+serpentine-helm = 0
+trident-of-the-seas = 0
+trident-of-the-swamp = 0
+arclight-charge = 0
+slayerPoints = 105
+LastLoginYear = 2021
+LastLoginMonth = 1
+LastLoginDate = 20
+LoginStreak = 1
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 1
+ahrim = false
+dharok = false
+guthan = false
+karil = false
+torag = false
+verac = false
+barrows-final-brother = Ahrim
+barrows-monsters-killcount = 0
+barrows-completed = false
+special-amount = 10.0
+prayer-amount = 0.9968531512101879
+KC =0
+DC =0
+total-hunter-kills = 0
+total-rogue-kills = 0
+target-time-delay = 0
+bh-penalties = 0
+bh-bounties = 0
+statistics-visible = true
+spell-accessible = false
+zerkAmount = 
+pkp = 0
+donP =0
+donA =585
+bank-charges = 22191
+augury = 0
+rigour = 0
+prestige-points = 0
+votePoints = 0
+bloodPoints = 0
+achievement-points = 7
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+teleblock-length = 0
+VarrockClaimedDiaries = 
+ArdougneClaimedDiaries = 
+DesertClaimedDiaries = 
+FaladorClaimedDiaries = 
+FremennikClaimedDiaries = 
+KandarinClaimedDiaries = 
+KaramjaClaimedDiaries = 
+LumbridgeClaimedDiaries = 
+MorytaniaClaimedDiaries = 
+WesternClaimedDiaries = 
+WildernessClaimedDiaries = 
+diaries = TEA_STALL,KILL_BANDIT,KILL_BANDOS,DURADEL
+partialDiaries = KILL_ROCK_CRAB:2,KILL_MITHRIL_DRAGON_KAN:35,GNOME_AGILITY:2
+necromancy-level = 1
+necromancy-xp = 0
+pc-points = 0
+LogTimer = 0
+LogAmount = 0
+hasTree = 0
+raked = 0
+compost = 0
+RockCrabs = 2
+Cows = 0
+recentKill = 2215
+Yaks = 4
+Bandits = 6089
+Elfs = 0
+Dags = 0
+Dragons = 0
+Gorillas = 0
+SmokeDevils = 0
+BarrelChest = 0
+KBD = 0
+Mole = 0
+KQ = 0
+GWD = 0
+Corp = 0
+Kraken = 0
+Zul = 0
+Cer = 0
+TSD = 0
+AbyssalSire = 0
+LM = 0
+Vork = 0
+Rats = 0
+HobGoblins = 0
+Giants = 0
+Demons = 0
+Skeletons = 0
+Ghosts = 0
+Bats = 0
+Dwarfs = 0
+Druids = 0
+Knights = 0
+MagicAxe = 0
+DB = 0
+Bloodveld = 0
+HellHound = 0
+CaveCrawler = 0
+CaveBug = 0
+CaveHorror = 0
+Cockatrice = 0
+RockSlug = 0
+Pyrefiend = 0
+Basilisk = 0
+Jelly = 0
+Turoth = 0
+Kurasks = 0
+Warriors = 0
+Wyverns = 0
+Wild = 0
+Slayer = 0
+Boss = 53
+Total = 815
+total-raids = 0
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+marketmute-end = 0
+last-yell = 1609758223918
+splitChat = true
+slayer-task = aviansie
+slayer-task-amount = 123
+slayer-master = 405
+consecutive-tasks = 8
+mage-arena-points = 0
+shayzien-assault-points = 0
+autoRet = 1
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 2
+privatechat = 0
+void = 0	0	0	0	0
+quickprayer = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	true	false	false	
+pouch-rune = 0	0	0
+pouch-pure = 0	0	0
+crabsKilled = 0
+farming-poison-berry = 0
+herb-patch 0 = 0	0	0	0	0
+herb-patch 1 = 0	0	0	0	0
+herb-patch 2 = 0	0	0	0	0
+herb-patch 3 = 0	0	0	0	0
+herb-patch 4 = 0	0	0	0	0
+herb-patch 5 = 0	0	0	0	0
+herb-patch 6 = 0	0	0	0	0
+herb-patch 7 = 0	0	0	0	0
+compostBin = 0
+halloweenOrderGiven = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderChosen = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderNumber = 0
+district-levels = 0	0	0	0	0	0	0	0
+inDistrict = false
+safeBoxSlots = 15
+lost-items = 
+lost-items-cerberus = 
+lost-items-hydra = 
+lost-items-skotizo = 
+
+[EQUIPMENT]
+character-equip = 0	22326	1	
+character-equip = 1	21295	1	
+character-equip = 2	19553	1	
+character-equip = 3	22325	1	
+character-equip = 4	22327	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	22328	1	
+character-equip = 8	-1	0	
+character-equip = 9	19544	1	
+character-equip = 10	13239	1	
+character-equip = 11	-1	0	
+character-equip = 12	11773	1	
+character-equip = 13	20220	1	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	28
+character-look = 10	27
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13053892	false	0
+character-skill = 1	99	13080914	false	0
+character-skill = 2	99	30090914	false	0
+character-skill = 3	99	90418768	false	0
+character-skill = 4	99	13048000	false	0
+character-skill = 5	79	1806658	false	0
+character-skill = 6	99	200000000	false	0
+character-skill = 7	1	0	false	0
+character-skill = 8	1	0	false	0
+character-skill = 9	1	0	false	0
+character-skill = 10	33	18590	false	0
+character-skill = 11	1	0	false	0
+character-skill = 12	1	0	false	0
+character-skill = 13	45	65952	false	0
+character-skill = 14	53	138876	false	0
+character-skill = 15	1	0	false	0
+character-skill = 16	36	26626	false	0
+character-skill = 17	99	13049280	false	0
+character-skill = 18	82	2455530	false	0
+character-skill = 19	50	106828	false	0
+character-skill = 20	37	29362	false	0
+character-skill = 21	1	0	false	0
+character-skill = 22	1	0	false	0
+character-skill = 23	1	0	false	0
+character-skill = 24	1	0	false	0
+
+[ITEMS]
+character-item = 0	13117	1
+character-item = 1	996	150000
+
+[RECHARGEITEMS]
+item = 	0	3	2020-12-29 21:30:03
+item = 	13120	2	2020-12-29 21:30:03
+item = 	1	3	2020-12-29 21:30:03
+item = 	2	150	2020-12-29 21:30:03
+item = 	13125	2	2020-12-29 21:30:03
+item = 	13126	3	2020-12-29 21:30:03
+item = 	13127	4	2020-12-29 21:30:03
+item = 	13128	3	2020-12-29 21:30:03
+item = 	13143	1	2020-12-29 21:30:03
+item = 	13111	5	2020-12-29 21:30:03
+item = 	13144	1	2020-12-29 21:30:03
+item = 	13117	1	2020-12-29 21:30:03
+item = 	13118	1	2020-12-29 21:30:03
+item = 	13119	1	2020-12-29 21:30:03
+
+[BANK]
+bank-tab = 0	996	40596806
+bank-tab = 0	3848	1
+bank-tab = 0	8014	49
+bank-tab = 0	580	1
+bank-tab = 0	578	1
+bank-tab = 0	1012	1
+bank-tab = 0	13661	1
+bank-tab = 0	1170	1
+bank-tab = 0	1130	1
+bank-tab = 0	1096	1
+bank-tab = 0	1064	1
+bank-tab = 0	1192	1
+bank-tab = 0	20054	1
+bank-tab = 0	5554	1
+bank-tab = 0	2415	1
+bank-tab = 0	1465	5
+bank-tab = 0	2529	1
+bank-tab = 0	7345	1
+bank-tab = 0	1154	1
+bank-tab = 0	12206	2
+bank-tab = 0	5556	1
+bank-tab = 0	5557	1
+bank-tab = 0	5558	1
+bank-tab = 0	4334	1
+bank-tab = 0	4152	1
+bank-tab = 0	12214	1
+bank-tab = 0	4588	1
+bank-tab = 0	22323	1
+bank-tab = 0	7389	1
+bank-tab = 0	7395	1
+bank-tab = 0	1078	1
+bank-tab = 0	12007	2
+bank-tab = 0	19551	1
+bank-tab = 0	1713	1
+bank-tab = 0	12784	1
+bank-tab = 0	1128	1
+bank-tab = 0	1080	1
+bank-tab = 0	384	15
+bank-tab = 0	1632	8
+bank-tab = 0	19680	2
+bank-tab = 0	19682	1
+bank-tab = 0	2348	1
+bank-tab = 0	1541	1
+bank-tab = 0	11287	1
+bank-tab = 0	11773	1
+bank-tab = 0	11809	1
+bank-tab = 0	2578	1
+bank-tab = 0	13197	1
+bank-tab = 0	1045	1
+bank-tab = 0	12930	1
+bank-tab = 0	6307	915
+bank-tab = 0	2360	21
+bank-tab = 0	2362	6
+bank-tab = 0	22325	1
+bank-tab = 0	11284	1
+bank-tab = 0	11336	1
+bank-tab = 0	4731	1
+bank-tab = 0	4725	1
+bank-tab = 0	4717	2
+bank-tab = 0	452	90
+bank-tab = 0	4723	1
+bank-tab = 0	12787	2
+bank-tab = 0	12398	1
+bank-tab = 0	220	25
+bank-tab = 0	71	20
+bank-tab = 0	4748	1
+bank-tab = 0	11236	1
+bank-tab = 0	11231	40
+bank-tab = 0	4758	1
+bank-tab = 0	4756	1
+bank-tab = 0	4085	1
+bank-tab = 0	4711	1
+bank-tab = 0	11807	1
+bank-tab = 0	3141	1
+bank-tab = 0	6527	1
+bank-tab = 0	19684	1
+bank-tab = 0	12925	1
+bank-tab = 0	230	10
+bank-tab = 0	20998	1
+bank-tab = 0	10500	1
+bank-tab = 0	12693	1
+bank-tab = 0	12692	1
+bank-tab = 0	11772	1
+bank-tab = 0	1382	1
+bank-tab = 0	22651	1
+bank-tab = 0	13442	936
+bank-tab = 0	22657	1
+bank-tab = 0	22654	1
+bank-tab = 0	4676	1
+bank-tab = 0	13238	1
+bank-tab = 0	566	975313
+bank-tab = 0	561	975226
+bank-tab = 0	563	1002
+bank-tab = 0	556	3210
+bank-tab = 0	557	664
+bank-tab = 0	555	904
+bank-tab = 0	567	995369
+bank-tab = 0	19548	1
+bank-tab = 0	12818	1
+bank-tab = 0	19711	1
+bank-tab = 0	11740	8
+bank-tab = 0	12515	1
+bank-tab = 0	6917	1
+bank-tab = 0	3452	2
+bank-tab = 0	12807	1
+bank-tab = 0	11771	1
+bank-tab = 0	12854	1
+bank-tab = 0	21007	1
+bank-tab = 0	13236	1
+bank-tab = 0	12910	1
+bank-tab = 1	12523	1
+bank-tab = 1	12897	1
+bank-tab = 1	12418	1
+bank-tab = 1	20185	1
+bank-tab = 1	12959	1
+bank-tab = 1	12208	1
+bank-tab = 1	20203	1
+bank-tab = 1	20200	1
+bank-tab = 1	20179	1
+bank-tab = 1	19974	1
+bank-tab = 1	12392	1
+bank-tab = 1	20194	1
+bank-tab = 1	12336	1
+bank-tab = 1	2676	1
+bank-tab = 1	12310	1
+bank-tab = 1	7393	1
+bank-tab = 1	12444	1
+bank-tab = 1	20105	1
+bank-tab = 1	7400	1
+bank-tab = 1	20182	1
+bank-tab = 1	12889	1
+bank-tab = 1	12380	2
+bank-tab = 1	10419	1
+bank-tab = 1	20191	1
+bank-tab = 1	7361	1
+bank-tab = 1	12344	1
+bank-tab = 1	12352	2
+
+
+[LOOTBAG]
+
+[RUNEPOUCH]
+
+[HERBSACK]
+
+[GEMBAG]
+
+[SAFEBOX]
+
+[FRIENDS]
+character-friend = 1
+character-friend = 16884793657
+character-friend = 8947411821
+character-friend = 535608730752869
+
+
+[HOLIDAY-EVENTS]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+item = 2	29
+
+
+[ACHIEVEMENTS-TIER-1]
+crab_killer = 2	false
+dragon_slayer_i = 25	true
+pvmer_i = 1000	true
+boss_hunter_i = 86	false
+theiving_task_i = 500	true
+agility_task_i = 2	false
+slayer_task_i = 1	false
+ckey_task = 8	false
+cluescroll_task = 18	false
+
+
+[ACHIEVEMENTS-TIER-2]
+dragon_hunter_ii = 68	false
+pvmer_ii = 3000	true
+boss_hunter_ii = 86	false
+intermediate_thief = 1000	true
+intermediate_runner = 2	false
+slayer_destroyer = 1	false
+chest_looter = 8	false
+clue_scroller = 18	false
+
+
+[ACHIEVEMENTS-TIER-3]
+expert_dragon_slayer = 68	false
+slaughterer = 6906	false
+boss_slaughterer = 86	false
+expert_thief = 1863	false
+slayer_expert = 1	false
+dig_for_gold = 8	false
+clue_champ = 18	false
+
+[IGNORES]
+
+[PRESETS]
+Names = New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	
+Inventory#0 = 
+Equipment#0 = 
+Inventory#1 = 
+Equipment#1 = 
+Inventory#2 = 
+Equipment#2 = 
+Inventory#3 = 
+Equipment#3 = 
+Inventory#4 = 
+Equipment#4 = 
+Inventory#5 = 
+Equipment#5 = 
+Inventory#6 = 
+Equipment#6 = 
+Inventory#7 = 
+Equipment#7 = 
+Inventory#8 = 
+Equipment#8 = 
+Inventory#9 = 
+Equipment#9 = 
+
+[KILLSTREAKS]
+
+[CONSTRUCTION]
+isInHouse = false
+hasHouse = false
+
+[TITLES]
+title = MODERATOR
+
+[NPC-TRACKER]
+warped jelly = 75
+iron dragon = 33
+sergeant steelwill = 16
+deviant specter = 2
+elf warrior = 22
+dust devil = 115
+general graardor = 18
+mithril dragon = 35
+sergeant grimspike = 15
+spiritual ranger = 2
+sergeant strongstack = 16
+
+[EOF]
+
